@@ -11,4 +11,4 @@ Apache 2.0
 
 Copyright Docker Inc Education Team 2014 <education@docker.com>
 #comment
-Tue, Dec 06 2017
+Tue, Dec 07 2017
